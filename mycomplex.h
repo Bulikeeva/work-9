@@ -1,6 +1,6 @@
 #ifndef _MY_COMPLEX_H_
 #include <iostream>
-//
+
 #define _MY_COMPLEX_H_
 
 using namespace std;
